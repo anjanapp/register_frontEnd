@@ -1,0 +1,8 @@
+.container{
+    border: 2px solid brown;
+    height: 400px;
+    width: 450px;
+    padding: 30px;
+    /* margin-left: 30px; */
+    float: right 30px;
+}
